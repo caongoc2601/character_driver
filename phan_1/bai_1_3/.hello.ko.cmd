@@ -1,0 +1,1 @@
+cmd_/home/bangoc/ldd/phan_1/bai_1_3/hello.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/bangoc/ldd/phan_1/bai_1_3/hello.ko /home/bangoc/ldd/phan_1/bai_1_3/hello.o /home/bangoc/ldd/phan_1/bai_1_3/hello.mod.o;  true

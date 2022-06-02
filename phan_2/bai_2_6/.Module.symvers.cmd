@@ -1,0 +1,1 @@
+cmd_/home/bangoc/ldd/phan_2/bai_2_6/Module.symvers := sed 's/ko$$/o/' /home/bangoc/ldd/phan_2/bai_2_6/modules.order | scripts/mod/modpost -m -a   -o /home/bangoc/ldd/phan_2/bai_2_6/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/bangoc/ldd/phan_3/bai_3_1/vchar_driver.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/bangoc/ldd/phan_3/bai_3_1/vchar_driver.ko /home/bangoc/ldd/phan_3/bai_3_1/vchar_driver.o /home/bangoc/ldd/phan_3/bai_3_1/vchar_driver.mod.o;  true
